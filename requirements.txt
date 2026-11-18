@@ -1,0 +1,14 @@
+#  Основные библиотеки 
+numpy
+pandas
+
+#  Машинное обучение 
+scikit-learn
+optuna
+imbalanced-learn
+
+#  Визуализация 
+matplotlib
+seaborn
+
+
